@@ -1,0 +1,14 @@
+CURL
+include::{snippets}/hello/curl-request.adoc[]
+
+HTTPie
+include::{snippets}/hello/httpie-request.adoc[]
+
+Request headers
+include::{snippets}/hello/http-request.adoc[]
+
+Response
+include::{snippets}/hello/http-response.adoc[]
+
+JSON response
+include::{snippets}/hello/response-fields.adoc[]
